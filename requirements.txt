@@ -1,0 +1,5 @@
+numpy
+scikit-image
+matplotlib>=3.5
+scipy
+PyQt5>=5.15
